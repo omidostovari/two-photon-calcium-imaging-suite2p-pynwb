@@ -1,0 +1,5 @@
+suite2p
+pynwb
+numpy
+matplotlib
+jupyter
