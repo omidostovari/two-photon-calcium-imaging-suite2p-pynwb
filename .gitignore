@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+conda-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Suite2p / imaging outputs
+suite2p_outputs/
+kaggle/working_directory/
+*.bin
+*.npy
+
+# Large NWB files
+*.nwb
+
+# Data folders
+data/
+outputs/
+results/
+
+# Keep placeholder files
+!.gitkeep
+!data/README.md
+!outputs/README.md
+!results/README.md
